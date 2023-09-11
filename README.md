@@ -13,7 +13,7 @@ Clone este repositório:
 
 
 *Copy code
-git clone https://github.com/seu-usuario/clone-instagram
+git clone https://github.com/camillalarissa/Clone-Pag-Instagram
 
 *Navegue até o diretório do projeto:
 
